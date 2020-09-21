@@ -1,4 +1,4 @@
-# php-simpl-crud
+# php-simple-crud
 This is a simple crud.
 
 Backend is developed with PHP and MySQL as database.
